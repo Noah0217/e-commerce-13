@@ -25,7 +25,13 @@
 * run ```npm start``` to connect to server & db
 * open insomnia and connect to server routes
 
-<h2>Category Demo<h2>
+<h2>Category Demo🎞️<h2>
   
 https://user-images.githubusercontent.com/84366215/132828478-25579415-87f3-48fa-85b7-89aa5720f2a0.mp4
 
+<h2>Product Demo🎞️<h2>
+
+https://user-images.githubusercontent.com/84366215/132832721-41f26134-e0ea-4a05-b94f-47ca2d40244b.mp4
+
+
+ 
