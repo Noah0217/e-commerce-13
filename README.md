@@ -40,3 +40,7 @@ https://user-images.githubusercontent.com/84366215/132832721-41f26134-e0ea-4a05-
 <h2>Tag Demo🎞️<h2>
 
 https://user-images.githubusercontent.com/84366215/132834170-ac3f94fa-1a35-4661-a5fc-ee9e764aa392.mp4
+  
+  
+## License & Copyright
+  Licensed under the [MIT License](LICENSE).
