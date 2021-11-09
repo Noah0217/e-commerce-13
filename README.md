@@ -24,6 +24,10 @@
 * run ```npm seed``` to set seeds in db
 * run ```npm start``` to connect to server & db
 * open insomnia and connect to server routes
+  
+<h2>Creating Schema Demo🎞️<h2>
+ 
+https://user-images.githubusercontent.com/84366215/140874291-a2eb9df4-96ff-4c5c-9418-3ec7c6df8183.mp4
 
 <h2>Category Demo🎞️<h2>
   
