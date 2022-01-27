@@ -1,7 +1,7 @@
 
 # E-Commerce Back-end Management System
 
-<h2>Description<br><h4>An e-commerce back-end data managment application used to create, update, and delete different attributes of an e-commerce site.
+<h2>Description<br><h4>An E-commerce back-end data managment application used to create, update, and delete different attributes of an E-commerce site.
   
 <h3 align="left">💻Languages and Tools🛠️</h3>
 
