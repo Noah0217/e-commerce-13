@@ -23,7 +23,7 @@
 * Run ```mysql -u root -p``` in cmd or powershell terminal
 * run ```npm seed``` to set seeds in db
 * run ```npm start``` to connect to server & db
-* open insomnia and connect to server routes
+* open insomnia and connect to server routes.
   
 <h2>Creating Schema Demo🎞️<h2>
  
