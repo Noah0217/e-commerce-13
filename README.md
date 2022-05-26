@@ -10,7 +10,7 @@
 - MySQL WorkBench
 - Insomnia
 - JavaScript
-- Node.Js
+- Node. Js
 - MySQL
 
 <h3 align="left">Installation</h3>
