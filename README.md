@@ -22,7 +22,7 @@
   * ```sequelize```
 * Run ```mysql -u root -p``` in cmd or powershell terminal.
 * run ```npm seed``` to set seeds in database.
-* run ```npm start``` to connect to server & db.
+* run ```npm start``` to connect to server & database.
 * Open `insomnia` and connect to server routes.
   
 <h2>Creating Schema Demo🎞️<h2>
